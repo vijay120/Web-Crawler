@@ -6,6 +6,6 @@ Directions (using Terminal):
 
 Notes:
 
-The code uses a breath first search approach to crawl through the seed page.
+The code uses a bredth first search approach to crawl through the seed page.
 
 The performance of the crawler is relatively slows. For depths > 2, the scans can takes several minutes to finish.
