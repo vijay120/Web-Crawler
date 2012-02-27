@@ -1,0 +1,11 @@
+Directions (using Terminal):
+
+1) Go into the current directory
+2) run >> python tester.py
+3) Input relevant information and the program will run.
+
+Notes:
+
+The code uses a breath first search approach to crawl through the seed page.
+
+The performance of the crawler is relatively slows. For depths > 2, the scans can takes several minutes to finish.
